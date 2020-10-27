@@ -1,2 +1,2 @@
 # datascience
-R programming codes
+A small analysis of the Iris Dataset using the SVMPoly ML Model.
