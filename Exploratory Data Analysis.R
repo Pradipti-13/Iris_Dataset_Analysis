@@ -68,4 +68,4 @@ TestingSet= iris[-TrainingIndex,] #Testing Set
 
 #Comparing scatter plots for Training and Testing Sets.
 plot(TrainingSet$sepal_length, TrainingSet$sepal_width)
-
+plot(TrainingSet$sepal_width, TrainingSet$sepal_length)
